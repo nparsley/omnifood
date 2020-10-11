@@ -412,7 +412,7 @@ cite img {
 /* ------------------------- */
 
 .section-plans {
-    background-color: #d6d6d6;
+    background-color: #e9e7e7;
 }
 
 .plan-box {
@@ -420,7 +420,7 @@ cite img {
     border-radius: 5px;
     width: 90%;
     margin-left: 5%;
-    box-shadow: 0 2px 2px rgb(230, 230, 230);
+    box-shadow: 0 2px 2px rgb(207, 207, 207);
 }
 
 .plan-box div {
